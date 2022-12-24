@@ -3,6 +3,9 @@ import Border from './components/Border'
 import Count from './components/Count'
 import Input from './components/Input'
 
+
+//inputa value daxil etdikce count arsin ve valueleri bordere elave etsin
+
 function App() {
 
  
